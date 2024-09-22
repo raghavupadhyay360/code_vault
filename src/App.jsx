@@ -7,7 +7,7 @@ import VideoSection from './Components/VideoSection';
 import Footer from './Components/Footer'
 import Signup from './Components/Signup'
 import './App.css'
-import './Index.css'
+import './index.css'
 
 function App() {
   return (
